@@ -1,0 +1,2 @@
+Need to create OCR to read this kind of documents and identify field name and values in .net8 blazor wasm.  integrate agentic ai identify data fields
+
